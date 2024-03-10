@@ -1,0 +1,27 @@
+{
+  "name": "sum-cozzolinotorhild",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-cozzolinotorhild": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cozzolinotorhild/sum-cozzolinotorhild"
+  },
+  "homepage": "https://twitter.com/ha_kim19127",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "cozzolinotorhild",
+  "license": "MIT"
+}
